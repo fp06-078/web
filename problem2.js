@@ -1,6 +1,6 @@
-let Name = "Babu Lal Mandal";
-let FatherName = "Shyam lal";
-let MotherName = "Teras bai";
+let Name = "Aman";
+let FatherName = "Ganesh";
+let MotherName = "Seema";
 
 console.log(Name)
 console.log(FatherName)
