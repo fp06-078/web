@@ -1,5 +1,5 @@
-let name = "Babu Lal Mandal";
-let age = 26;
+let name = "Kabyansh";
+let age = 3;
 
 console.log(name)
 console.log(age)
